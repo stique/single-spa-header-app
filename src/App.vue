@@ -1,5 +1,5 @@
 <template>
-  <div id="vue-app">
+  <div id="header-app">
       <div id="vue-component" class="container">
           <div class="main">
             <p>
